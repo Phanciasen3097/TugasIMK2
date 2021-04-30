@@ -1,3 +1,3 @@
 # TUGAS IMK
 
-[CLICK HERE](https://semmidev.github.io/tugas-imk-2/)
+[CLICK HERE](https://phanciasen.github.io/Tugasimk2/)
