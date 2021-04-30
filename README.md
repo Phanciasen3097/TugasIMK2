@@ -1,3 +1,3 @@
-# TUGAS IMK
+# Tugas IMK
 
-[CLICK HERE]
+[Click Here](https://phanciasen3097.github.io/tugasimk2/)
